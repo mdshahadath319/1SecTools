@@ -67,26 +67,3 @@ Ensure your `uploads/` or `storage/` folders are writable by the web server.
 
 # Step 4: Deploy
 Upload to your PHP-supported hosting platform.
-
-All Rights Reserved © 2025 1SecTools
-
-This project is NOT open source. The source code is provided for reference and deployment by the author only.
-
-You MAY:
-- View and browse the source code for personal or educational use
-- Use the live site for personal tasks
-
-You MAY NOT:
-- Reuse, modify, redistribute, or rehost this project
-- Incorporate any part of the code in commercial or derivative works
-- Host your own version without written permission
-
-Violations will be subject to copyright enforcement.
-## 📧 Contact
-
-Have questions, suggestions, or partnership inquiries? Feel free to reach out:
-
-- 📩 Email: [1sectools@proton.me](mailto:1sectools@proton.me)
-- 🌐 Website: [https://1sectools.infy.uk/contact.php](https://1sectools.infy.uk/contact.php)
-
-For bug reports or feature requests, please open an issue on [GitHub Issues](https://github.com/mdshahadath319/1sectools/issues).
